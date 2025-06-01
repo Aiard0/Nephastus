@@ -1,0 +1,9 @@
+{
+  "itemGroup.nephastus": "Example Mod Tab",
+  "block.nephastus.example_block": "Example Block",
+  "item.nephastus.example_item": "Example Item",
+  "item.nephastus.ren": "Supra Ren",
+  "creativetab.nephastus.machines_tab": "Nephastus - Machines",
+  "block.nephastus.machine_block": "Machine Block",
+  "block.nephastus.crusher_block": "Crusher"
+}

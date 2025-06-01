@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "nephastus:block/crusher_top",
+    "front": "nephastus:block/crusher_front",
+    "side": "nephastus:block/crusher_side"
+  }
+}

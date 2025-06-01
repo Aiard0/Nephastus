@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "nephastus:block/crusher_block" },
+    "facing=south": { "model": "nephastus:block/crusher_block", "y": 180 },
+    "facing=west": { "model": "nephastus:block/crusher_block", "y": 270 },
+    "facing=east": { "model": "nephastus:block/crusher_block", "y": 90 }
+  }
+}

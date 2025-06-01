@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "nephastus:block/machine_block",
+    "up": "nephastus:block/machine_block",
+    "north": "nephastus:block/machine_block",
+    "south": "nephastus:block/machine_block",
+    "west": "nephastus:block/machine_block",
+    "east": "nephastus:block/machine_block"
+  }
+}
